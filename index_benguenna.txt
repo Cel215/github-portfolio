@@ -1,0 +1,114 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Célia Benguenna
+Célia Benguenna
+Web developer
+
+Show Contacts
+
+Email
+celia.benguenna.etu@univ-lille.fr
+
+Phone
++33(0)651414712
+
+Birthday
+22 Octobre 2000
+
+Location
+Lille, Nord, France
+
+# navbar
+
+A mon sujet
+CV
+Contact
+
+# A mon sujet
+
+A mon sujet
+
+ Passionnée par les analyses statistiques, la programmation et l’univers de la santé, je m'intéresse particulièrement à l’impact des données dans l’amélioration des pratiques et des systèmes de santé. Actuellement étudiante en Master 1 Ingénierie de la Santé, parcours Data Science en Santé, à la Faculté d’Ingénierie et Management de la Santé de l’Université de Lille, je suis activement à la recherche d’un stage du 24 mars 2025 au 14 août 2025 dans le domaine de la data science appliquée à la santé.
+
+Mon objectif est de concevoir et de mettre en place des outils numériques innovants pour exploiter et valoriser les données de santé. J'aspire à accompagner les professionnels dans leurs prises de décisions grâce à des solutions fondées sur des données fiables et bien analysées. Mon expertise inclut l’analyse et la visualisation de données, le développement d’outils numériques et la gestion de bases de données.
+
+À travers mon parcours académique et mes futures expériences professionnelles, je souhaite non seulement approfondir mes compétences en modélisation des données et en conception d'outils d'information et de communication, mais également jouer un rôle stratégique dans les prises de décision. Animée par une passion pour les sciences de la santé et la data science, je vise à contribuer activement à l’élaboration de solutions technologiques innovantes qui transformeront les pratiques en santé. Mon ambition est de m’imposer comme une actrice clé, capable d’apporter des perspectives nouvelles et des réponses concrètes aux défis des industries pharmaceutiques, tout en plaçant les patients et les professionnels de santé au cœur des priorités.
+
+Je suis animée par l'enthousiasme de rejoindre un environnement dynamique en France ou à l'étranger, où je pourrai valoriser mes compétences en ingénierie des données et en modélisation de données appliquées à la santé. Mon ambition est de m'investir pleinement dans des projets innovants, au sein d’équipes passionnées, pour relever les défis du secteur et contribuer à des avancées concrètes au service de la santé.
+
+
+## service
+
+Compétences 
+
+alt = design icon
+Statistiques en santé
+Analyse exploratoire des données, tests d'hypothèse, régression linéaire et logistique, méthodes de classification.
+
+alt = Web development icon
+Programmation Python, R et SQL en santé
+Traitement et manipulation des données, exploitation de bibliothèques spécialisées comme pandas, NumPy, matplotlib sur Python et tidyverse, caret et glmnet sur R.
+
+alt = mobile app icon
+Nouvelles technologies de gestion et d'analyse des données de santé : 
+Structuration et interrogation de bases de données médicales théoriques. Création de tableaux de bords interactifs pour le suivi d'indicateurs clés en santé. 
+
+alt = camera icon
+Visualisation des données de santé 
+Faciliter la prise de décision, Rendre les données accessibles, Identifier les tendances patients(Heatmaps, Diagramme de Sankey)
+
+
+# resume
+
+CV
+
+Formations
+
+Master Data Science en Santé - UFR3S Faculté Ingénierie et Management de la Santé - ILIS, LOOS.
+2024 — 2026
+Acquisition des bases solides en mathématiques, statistiques, informatique et sciences de la santé. Maitrise des outils de gestion et d'analyse de données appliqués à des problématiques de santé. Approfondissement des compétences en modélisation et en apprentissage automatique pour traiter des données complexes, telles que les données massives et les données biologiques. Connaissances en santé primordiales telles que l'épidémiologie, biologie moléculaire, génomique et médecine de précision.
+
+Licence Sciences pour la Santé - UFR3S Faculté Ingénierie et Management de la Santé - ILIS, LOOS.
+2020 — 2024
+Santé numérique et technologies biomédicales, Gestion et qualité en santé, Informatique et analyse de données, Statistiques et épidémiologie.
+
+Première Année Commune aux Etudes de Santé - UFR3S Faculté de Médecine Henri Warembourg, LOOS.
+2018 — 2020
+Sciences fondamentales, Sciences de la santé, Mathématiques et statistiques, Méthodologie scientifique. Aptitude à raisonner et à analyser des problématiques scientifiques complexes. 
+
+Experiences professionnelles
+
+Stage en Data Science - Fédération régionale de recherche en psychiatrie et en santé mentale - F2RSM Psy, Saint-André-lez-Lille.
+Avril 2024 — Juin 2024
+Objectif : explorer Reddit comme une source de données pertinente pour l'analyse des addictions. Volet qualitatif : Exploration et annotation des données (Recherche bibliographique, Analyse inductive, Structuration des données). Volet quantitatif : Analyse automatique pour identifier les tendances récurrentes, décrire les addictions et comprendre les attentes des utilisateurs. Découverte du métier de Chercheur & Data Scientist en santé (formation : à la recherche bibliographique, à l'initiation à la recherche, à l'utilisation du Système National des Données de Santé (SNDS)).
+
+Stage en Ingénierie Biomédicale - Centre Hospitalier de Tourcoing
+Octobre 2023 — Décembre 2023
+Préparation et nettoyage des données pour l'optimisation des systèmes de gestion. Analyse technologique et décisionnelle pour des solutions innovantes en santé. Déploiement de dispositifs médicaux intelligents et connectés. Participation à des projets stratégiques et gestion de données pour la rénovation hospitalière.
+
+Stage en Management Sectoriel 
+Avril 2023 — Juin 2023
+Analyse et gestion des données pour l'élaboration de stratégies organisationnelles. Planification et gestion des ressources humaines. Qualité et évaluation des processus.Communication et restitution des données.
+
+Langues
+
+Anglais B1
+80%
+Espagnol A2
+70%
+Arabe littéraire B2
+80%
+
+# contact
+
+Contact
+
+Formulaire de contact
+
+Nom prénom
+Adresse Email
+Message
+
+Envoyer
